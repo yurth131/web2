@@ -1,0 +1,31 @@
+﻿#body {
+    text-align: center;
+    }
+
+#container {
+        width: 96%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
+
+    #wrapper {
+        width: 620px;
+        float: left;
+    }
+
+    #boxb {
+        width: 440px;
+        float: right;
+    }
+
+    #boxb {
+        width: 180px;
+        float: right;
+    }
+
+    #boxd {
+        width: 180px;
+        float: left;
+    }
+}
