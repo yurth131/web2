@@ -14,12 +14,12 @@ header{
     margin:10px 10px 10px 0px;
 }
 .boxB {
-    float: left;
+    float:left;
     margin: 10px 10px 10px 0px;
 }
 .boxC {
-    float: left;
-    width: 370px;
+    float:left;
+    width:370px;
     margin: 10px 10px 10px 0px;
 }
 
