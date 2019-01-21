@@ -7,18 +7,18 @@
 
 .boxA{
     float:left;
-    background: #ffaffa;
+    background-color: #ffaffa;
     width:370px;
     margin:10px 10px 10px 0px;
 }
 .boxB{
     float:left;
-    background: #fafffa;
+    background-color: #fafffa;
     margin: 10px 10px 10px 0px;
 }
 .boxC{
     float:left;
-    background: #ffafaf;
+    background-color: #ffafaf;
     width:370px;
     margin: 10px 10px 10px 0px;
 }
