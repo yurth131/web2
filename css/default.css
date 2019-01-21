@@ -1,20 +1,24 @@
 @charset="UTF-8"
 
 #wrap{
+    background: #b0c4de;
     width:960px;
 }
 
 .boxA{
     float:left;
+    background: #ffaffa;
     width:370px;
     margin:10px 10px 10px 0px;
 }
 .boxB{
     float:left;
+    background: #fafffa;
     margin: 10px 10px 10px 0px;
 }
 .boxC{
     float:left;
+    background: #ffafaf;
     width:370px;
     margin: 10px 10px 10px 0px;
 }
