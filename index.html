@@ -23,7 +23,24 @@
             <p>ぽろろっか</p>
         </div>
         <div>
-            <h1>フォーム</h1>
+            <h1>
+                <form action="//www-creators.com/rsc/receiver.php" method="post">
+                <label class="label" for="name">名前</label>
+                <input id="name" type="text" name="name">
+                <label class="label" for="e-mail">メール</label>
+                <input id="e-mail" type="email" name="email">
+                <label class="label" for="message">本文</label>
+                <textarea rows="4" id="message" placeholder="ご意見をお寄せ下さい。" name="comment"></textarea>
+                <label><input type="checkbox" name="magazine" checked>ねこはいますか？</label>
+                <input type="submit">
+                </form>
+
+                <style>
+                label, input[type=text]{
+                display:block;
+                }
+                </style>
+            </h1>
         </div>
     </div>
 </body>
