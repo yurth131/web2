@@ -1,31 +1,23 @@
-#body {
-    text-align: center;
-    }
+#wrap{
+    width:960px;
+    margin:0px autol;
+}
 
-#container {
-        width: 96%;
-        margin-left: auto;
-        margin-right: auto;
-        text-align: left;
-    }
-
-    #wrapper {
-        width: 620px;
-        float: left;
-    }
-
-    #boxb {
-        width: 440px;
-        float: right;
-    }
-
-    #boxb {
-        width: 180px;
-        float: right;
-    }
-
-    #boxd {
-        width: 180px;
-        float: left;
-    }
+header{
+    border:dashed 1px #999;
+}
+#boxA{
+    float:left;
+    width:370px;
+    margin:10px 10px 10px 0px;
+}
+#boxB {
+    float: left;
+    width: 198px;
+    margin: 10px 10px 10px 0px;
+}
+#boxD {
+    float: left;
+    width: 370px;
+    margin: 10px 10px 10px 0px;
 }
