@@ -1,8 +1,8 @@
 @charset="UTF-8"
 
-.wrap{
+#wrap{
     width:960px;
-    margin:0px autol;
+    margin:0px auto;
 }
 
 .boxA{
